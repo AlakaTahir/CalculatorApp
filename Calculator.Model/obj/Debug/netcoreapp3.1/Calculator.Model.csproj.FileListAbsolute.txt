@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\bin\Debug\netcoreapp3.1\Calculator.Model.deps.json
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\bin\Debug\netcoreapp3.1\Calculator.Model.dll
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\bin\Debug\netcoreapp3.1\Calculator.Model.pdb
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.dll
+C:\Users\HP\Desktop\Practice\CalculatorApp\Calculator.Model\obj\Debug\netcoreapp3.1\Calculator.Model.pdb
